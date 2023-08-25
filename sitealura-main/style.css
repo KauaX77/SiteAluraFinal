@@ -1,0 +1,65 @@
+/* styles.css */
+body {
+   font-family: Arial, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   margin: 0;
+   padding: 0;
+   background-color: #f4f4f4;
+   font-size: larger;
+
+}
+
+header {
+   background-color: #333;
+   color: #fff;
+   text-align: center;
+   padding: 2%;
+}
+
+nav ul {
+   list-style: none;
+   padding: 0;
+}
+
+nav li {
+   display: inline;
+   margin-right: 20px;
+}
+
+main {
+   padding: 35%;
+}
+
+footer {
+   background-color: #333;
+   color: #fff;
+   text-align: center;
+   padding: 1%;
+}
+
+.cabecalho-imagem{
+   width: 100%;
+   text-align: center;
+   padding: 0%;
+
+
+
+}
+.Logo-Nike{
+   width: 100%;
+}
+.Titulo{
+   font-size: 50px;
+   color: rgb(124, 63, 143);
+   margin-top: -20px;
+}
+.Produto{
+   margin-top: -350px;
+}
+.Sobre{
+   font-size: 15px;
+   text-align: left;
+   position: absolute;
+bottom: -1000px;
+left: 10px;
+right: 850px;
+}
